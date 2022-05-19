@@ -3,3 +3,4 @@ Hello.
 Szia.
 Jo reggelt.
 Jo napot!
+Szép Estet!
